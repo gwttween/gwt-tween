@@ -1,5 +1,7 @@
-GWT-Tween
+GWT-Tween 
 ===================
+[![Build Status](https://travis-ci.org/gwttween/gwt-tween.svg?branch=master)](https://travis-ci.org/gwttween/gwt-tween)
+
 Tween for GWT based on [tween.js](https://github.com/tweenjs/tween.js) project.
 
 ###Examples 
