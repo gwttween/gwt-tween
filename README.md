@@ -16,7 +16,7 @@ after that add this dependency to your `pom.xml` project file.
  <dependency>
      <groupId>com.gwttween</groupId>
      <artifactId>gwt-tween</artifactId>
-     <version>0.3-SNAPSHOT</version>
+     <version>0.3</version>
  </dependency>
 ````
 If you need jar file you can copy it from build `target` directory.
