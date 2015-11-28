@@ -21,10 +21,12 @@ Some examples you can find [here](http://dev.samsklepal.com/gwtTweenExamples)
 ````
 
 ##### Dev version
-If you need current dev version, follow next steps:
-       1. clone  this project
-       2. build it with `mvn install`
-       3. add this dependency to your `pom.xml` file.
+If you need current dev version, follow next steps:<br>
+<ol>
+  <li>clone  this project</li>
+  <li>build it with `mvn install`</li>
+  <li>add this dependency to your `pom.xml` file</li>
+</ol>
 ````
  <dependency>
      <groupId>com.gwttween</groupId>
